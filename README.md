@@ -99,7 +99,7 @@ module "ec2_instance" {
 
 
 
-## install jenkins and git and terraform and kubectl using bash script when EC2 Start
+## install jenkins and git and terraform and kubectl using bash script when EC2 launch
 
 ```
 #!/bin/bash
